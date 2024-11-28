@@ -74,6 +74,9 @@ add_subdirectory(src)
 # Optional targets
 add_subdirectory(clients)
 
+# Optional targets
+add_subdirectory(api)
+
 if(SFIZZ_BENCHMARKS)
     add_subdirectory(benchmarks)
 endif()

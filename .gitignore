@@ -27,3 +27,9 @@ clients/sfzprint
 .kak.tags.namecache
 .clangd
 venv
+
+#visual studio
+/.vs
+/out
+/out-android
+/CMakeSettings.json

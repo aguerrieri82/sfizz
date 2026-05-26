@@ -33,3 +33,4 @@ venv
 /out
 /out-android
 /CMakeSettings.json
+/out-win
